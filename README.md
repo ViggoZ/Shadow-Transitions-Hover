@@ -9,4 +9,4 @@ just download and DO WHAT THE FUCK YOU WANT TO.
 
 ## Interface
 See the project page or just look at this awesome gif:
-![](http://ww2.sinaimg.cn/large/6cc4d03agw1f6opars9aqj20rs09mac2.jpg)
+![](http://7xnb6x.com1.z0.glb.clouddn.com/image/github/12345-1.gif)
