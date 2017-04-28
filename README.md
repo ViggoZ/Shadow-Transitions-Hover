@@ -9,4 +9,4 @@ just download and DO WHAT THE FUCK YOU WANT TO.
 
 ## Interface
 See the project page or just look at this awesome gif:
-![](http://7xnb6x.com1.z0.glb.clouddn.com/image/github/12345-1.gif)
+![](http://ViggoZ.github.io/Shadow-Transitions-Hover/Shadow-Transitions-Hover.gif)
