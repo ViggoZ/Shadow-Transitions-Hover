@@ -4,6 +4,7 @@ A collection of CSS3 powered hover effects to be applied to links, buttons, logo
 ## Interface
 See the [Demo](http://ViggoZ.github.io/Shadow-Transitions-Hover)  or just look at this awesome gif:
 ![](http://ViggoZ.github.io/Shadow-Transitions-Hover/Shadow-Transitions-Hover.gif)
+
 e.g. [www.webstack.cc](http://www.webstack.cc)
 See more >> [My Blog](http://www.viggoz.com)
 
