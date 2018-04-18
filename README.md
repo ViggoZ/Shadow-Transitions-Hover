@@ -6,6 +6,7 @@ See the [Demo](http://ViggoZ.github.io/Shadow-Transitions-Hover)  or just look a
 ![](http://ViggoZ.github.io/Shadow-Transitions-Hover/Shadow-Transitions-Hover.gif)
 
 e.g. [www.webstack.cc](http://www.webstack.cc)
+
 See more >> [My Blog](http://www.viggoz.com)
 
 ## How to use?
